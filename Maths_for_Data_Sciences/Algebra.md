@@ -77,3 +77,29 @@
 - Divide both sides by 4: `z = 12 ÷ 4 = 3`
 
 ----
+
+
+# Matrix Operations in Data Science
+
+# Matrix Operations in Data Science
+
+## Overview
+
+Matrix operations are fundamental tools in data science, enabling various tasks such as data manipulation, transformation, and analysis. This README.md provides an overview of common matrix operations and their applications in the context of data science.
+
+## Matrix Operations
+
+### 1. Matrix Addition and Subtraction
+
+Matrix addition involves adding corresponding elements of two matrices to produce a new matrix of the same size. This operation is useful for tasks like combining datasets or removing biases. Matrix subtraction is similar but involves subtracting corresponding elements.
+
+## Matrix Operations
+
+| Matrix Operation       | Explanation                                                                                                                                                                                                                                              | Example                                                                                               |
+|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Matrix Addition        | Adding corresponding elements of two matrices to produce a new matrix of the same size. Useful for combining datasets or removing biases.                                                                                                               | \( \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} + \begin{bmatrix} 5 & 6 \\ 7 & 8 \end{bmatrix} = \begin{bmatrix} 6 & 8 \\ 10 & 12 \end{bmatrix} \)                 |
+| Matrix Subtraction     | Subtracting corresponding elements of one matrix from another to produce a new matrix of the same size.                                                                                                                                                  | \( \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} - \begin{bmatrix} 5 & 6 \\ 7 & 8 \end{bmatrix} = \begin{bmatrix} -4 & -4 \\ -4 & -4 \end{bmatrix} \)               |
+| Scalar Multiplication | Multiplying each element of a matrix by a scalar value. Commonly used for normalization or standardization of data.                                                                                                                                     | \( 2 \times \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} = \begin{bmatrix} 2 & 4 \\ 6 & 8 \end{bmatrix} \)                                                           |
+| Matrix Multiplication | Multiplying two matrices to produce a new matrix. Essential for tasks like linear regression, dimensionality reduction, and neural networks.                                                                                                          | \( \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} \times \begin{bmatrix} 5 & 6 \\ 7 & 8 \end{bmatrix} = \begin{bmatrix} 19 & 22 \\ 43 & 50 \end{bmatrix} \)         |
+| Matrix Transposition   | Swapping the rows and columns of a matrix to produce a new matrix. Useful for tasks like rotating data or converting between row and column
+
