@@ -103,3 +103,46 @@ Matrix addition involves adding corresponding elements of two matrices to produc
 | Matrix Multiplication | Multiplying two matrices to produce a new matrix. Essential for tasks like linear regression, dimensionality reduction, and neural networks.                                                                                                          | \( \begin{bmatrix} 1 & 2 \\ 3 & 4 \end{bmatrix} \times \begin{bmatrix} 5 & 6 \\ 7 & 8 \end{bmatrix} = \begin{bmatrix} 19 & 22 \\ 43 & 50 \end{bmatrix} \)         |
 | Matrix Transposition   | Swapping the rows and columns of a matrix to produce a new matrix. Useful for tasks like rotating data or converting between row and column
 
+
+
+
+# Algebraic Techniques in Data Science and Machine Learning
+
+| Technique             | Description                                                                                                                                                           | Example Applications                                      |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Linear Algebra       | Deals with vector spaces and linear mappings between these spaces. Involves operations on matrices and vectors such as addition, multiplication, and decomposition. | Dimensionality reduction, solving systems of equations, principal component analysis.                             |
+| Matrix Factorization | Involves decomposing matrices into simpler components, often to reduce dimensionality or reveal underlying patterns in the data.                                      | Singular Value Decomposition (SVD), Principal Component Analysis (PCA), Non-negative Matrix Factorization (NMF). |
+| Optimization         | Concerned with finding the best solution (e.g., maximum or minimum) of a mathematical function, typically subject to constraints.                                      | Gradient Descent, Newton's Method, Conjugate Gradient.                                                    |
+| Regression Analysis | Statistical technique used for modeling the relationship between a dependent variable and one or more independent variables.                                            | Linear Regression, Polynomial Regression, Ridge Regression, Lasso Regression.                                  |
+| Classification       | Involves categorizing data points into discrete classes or categories based on input features.                                                                        | Logistic Regression, Support Vector Machines (SVM), Decision Trees, k-Nearest Neighbors (k-NN).                |
+| Graph Theory         | Studies graphs, which consist of vertices (nodes) connected by edges (links). Involves analyzing properties and relationships within these structures.                  | PageRank algorithm, Social network analysis, Community detection algorithms.                                    |
+| Neural Networks      | A computational model inspired by the structure and function of the brain, consisting of interconnected nodes (neurons) organized in layers.                         | Feedforward Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs).            |
+
+
+# Components of Algebra
+
+| Component            | Definition                                                                                           | Example                 | Use Case                                           |
+|----------------------|------------------------------------------------------------------------------------------------------|-------------------------|----------------------------------------------------|
+| Arithmetic           | Branch of mathematics dealing with numbers and basic operations.                                      | 2 + 3 × 4               | Basic calculations in everyday life                |
+| Operators            | Symbols that indicate the operation to perform on numbers or variables.                                | +, -, ×, ÷, ^          | Perform mathematical operations in equations      |
+| Variables            | Symbols representing unknown values in expressions and equations.                                      | In x + 2 = 4, x is a variable | Represent quantities that can change or are unknown |
+| Constants            | Fixed values that do not change within an expression or equation.                                     | In 3x + 4, 4 is a constant  | Represent known quantities in equations            |
+| Expressions          | Combinations of variables, constants, and operators representing a value; without an equality sign. | 3x + 5                  | Represent mathematical relationships               |
+| Equations            | Statements that two expressions are equal, indicated by an equality sign.                             | 2x + 3 = 7              | Solve for unknown variables and model real-world situations |
+| Inequalities         | Statements similar to equations but with inequality symbols.                                          | x + 5 > 10              | Describe a range of possible values or conditions  |
+| Coefficients         | Numerical factors of terms with variables.                                                            | In 7x, 7 is the coefficient | Determine the rate of change or scaling factor      |
+| Terms                | Separate elements in an expression or equation, combined with addition or subtraction.               | In 3x + 2y + 7, 3x, 2y, and 7 are terms | Isolate or combine like terms in simplification processes |
+| Polynomials          | Expressions with multiple terms where each term is a variable raised to a non-negative integer power. | x^2 + 3x + 2            | Model a wide range of problems                     |
+| Functions            | Relations where each input has a single output, often written as f(x).                                | f(x) = 2x + 3           | Describe how one quantity depends on another        |
+| Algebraic Fractions  | Fractions containing algebraic expressions in the numerator or denominator.                           | x+2/x-2                 | Represent parts of algebraic quantities or ratios  |
+| Radicals             | Expressions containing a root symbol, which indicates the root of a number or expression.            | √x or ∛(x+1)            | Solve equations involving powers and roots         |
+| Exponents            | Indicate how many times a number, known as the base, is multiplied by itself.                        | x^3                     | Represent repeated multiplication                  |
+| Absolute Value       | Represents the distance of a number from zero on the number line, without considering direction.      | |x| or |-5| = 5          | Find the magnitude of a number or variable         |
+| Factorization        | The process of breaking down a number or expression into a product of its factors.                   | Factoring x^2 – 9 into (x+3)(x-3) | Simplify expressions and solve equations            |
+| Domain and Range     | The set of all possible input values (domain) and all possible output values (range) for a function. | For f(x) = 1/x, Domain: x ≠ 0, Range: y ≠ 0 | Determine the set of possible values for functions |
+| Algebraic Identities| Equations that are true for all values of the variables involved.                                     | (a+b)^2 = a^2 + 2ab + b^2 | Simplify expressions and solve equations more easily |
+| Binomial             | A polynomial with two terms.                                                                         | 3x + 2                  | Represent simple polynomial relationships           |
+| Trinomial            | A polynomial with three terms.                                                                       | x^2 + 3x + 2            | Describe more complex polynomial relationships      |
+| Quadratic Equations  | Equations where the highest exponent of the variable is 2.                                           | ax^2 + bx + c = 0       | Model motions, optimize solutions, and find turning points |
+| Discrete Mathematics | The study of mathematical structures that are fundamentally discrete rather than continuous.         | Graph theory, set theory | Analyze discrete systems, such as computer algorithms or networks |
+| Computational Algebra | A field of algebra that studies algorithms and software for manipulating algebraic expressions and objects. | Using software to solve x^5 – x + 1 = 0 | Solve complex algebraic problems using computational tools |
