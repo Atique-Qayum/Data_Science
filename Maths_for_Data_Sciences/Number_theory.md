@@ -200,7 +200,141 @@ This table provides a concise overview of each concept along with examples to il
 | Compound Inequalities | Inequalities involving two separate inequalities joined by "and" or "or".                             | Compound inequality: 2 < x < 5.     |
 
 
+------
 
+# Unveiling the Mystery of Variables and Expressions in Algebra
 
+## Working with Variables
+
+| Topic                | Description                                                                                          | Example                                          |
+|----------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| Understanding Variables | Symbols representing unknown values that can change or vary. Often represented by letters like x, y, z. | In x + 5, x is a variable.                      |
+
+## Algebraic Expressions
+
+| Topic                | Description                                                                                          | Example                                          |
+|----------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| Algebraic Expressions | Mathematical phrases containing numbers, variables, and operators like add, subtract, multiply, divide. | 3x + 2y - 7 is an algebraic expression.        |
+
+## Simplifying Expressions
+
+| Topic                | Description                                                                                          | Example                                          |
+|----------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| Simplifying Expressions | Combining like terms and reducing expressions to their simplest form.                                 | Simplify 2x + 3x to get 5x.                      |
+
+## Solving Equations
+
+| Topic                | Description                                                                                          | Example                                          |
+|----------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| One-step Equations   | Solving algebraic equations in one step using addition, subtraction, multiplication, or division.    | Solve x + 7 = 10 by subtracting 7.              |
+| Two-step Equations   | Solving equations requiring two steps, often involving a combination of operations.                  | Solve 2x + 3 = 7 by subtracting 3, then dividing by 2. |
+| Multi-step Equations | Solving equations with several operations, including distributive property and combining like terms. | Solve 3(x + 2) - 4 = 11.                        |
+
+## Solving Inequalities
+
+| Topic                | Description                                                                                          | Example                                          |
+|----------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------|
+| Graphing Inequalities | Representing solutions to inequalities by shading regions on a number line or coordinate plane.      | Graph x > 3 on a number line.                   |
+| Compound Inequalities | Inequalities involving two separate inequalities joined by "and" or "or".                            | Compound inequality: 2 < x < 5.                  |
+-------
+
+# Measurement and Geometry Foundations
+
+## Units of Measurement
+
+| Topic               | Description                                                                                         | Example                                                        |
+|---------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Length, Mass, Volume, and Time | Physical quantities measured using units like meters, kilograms, liters, and seconds.          | Convert 5 kilometers to miles: 5 km * 0.621371 = 3.106855 miles. |
+
+## Metric and Imperial Units
+
+| Topic               | Description                                                                                         | Example                                                        |
+|---------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Metric and Imperial Units | Systems of measurement using units like meters, liters, and grams (metric), or feet, gallons, and pounds (imperial). | Metric system: meters, liters, grams. Imperial system: feet, gallons, pounds. |
+
+## Introduction to Geometry
+
+| Topic               | Description                                                                                         | Example                                                        |
+|---------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Points, Lines, and Angles | Basic elements of geometry: points (locations in space), lines (one-dimensional figures), and angles (formed by two rays). | Sum of interior angles in a triangle is always 180 degrees. |
+
+## Shapes in Geometry
+
+| Topic               | Description                                                                                         | Example                                                        |
+|---------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Triangles           | Three-sided polygons characterized by three edges and three vertices.                               | Triangles have 3 vertices and 3 angles totaling 180 degrees.    |
+| Quadrilaterals      | Four-sided polygons including squares, rectangles, and parallelograms.                               | A square has all sides equal and all interior angles 90 degrees.|
+| Circles             | Round shapes where every point on the boundary is equidistant from the center.                        | Circumference of a circle = 2 * π * radius.                    |
+
+## Measurement in Geometry
+
+| Topic               | Description                                                                                         | Example                                                        |
+|---------------------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Perimeter and Area | Perimeter is the distance around a shape, while area is the space inside it.                          | Perimeter of rectangle = 2*(length + width). Area = length * width. |
+| Surface Area and Volume | Surface area is the total area of the object's surface, while volume measures the space it occupies. | Surface area of cube = 6 * (edge length)^2. Volume = (edge length)^3. |
+
+-----
+
+# Data Analysis Basics in Algebra
+
+## Understanding Data
+
+| Topic            | Description                                                                                   | Example                             |
+|------------------|-----------------------------------------------------------------------------------------------|-------------------------------------|
+| Collecting Data  | Gathering information from various sources for analysis.                                       | Conducting surveys or experiments.  |
+| Organizing Data  | Structuring collected information into a format suitable for analysis, such as tables or graphs. | Creating data tables or charts.     |
+
+## Descriptive Statistics
+
+| Topic            | Description                                                                                   | Example                             |
+|------------------|-----------------------------------------------------------------------------------------------|-------------------------------------|
+| Mean, Median, Mode | Measures of central tendency in a data set: mean is the average, median is the middle value, mode is the most frequent value. | Calculating the average score (mean) of a class. |
+| Range            | The difference between the highest and lowest values in a data set.                            | Range of test scores from 60 to 90. |
+| Interquartile Range | Describes the middle 50% of values in a data set, indicating variability.                     | IQR of salaries for middle-level employees. |
+
+## Probability
+
+| Topic            | Description                                                                                   | Example                             |
+|------------------|-----------------------------------------------------------------------------------------------|-------------------------------------|
+| Simple Probability | Likelihood of a single event occurring, calculated as favorable outcomes divided by total outcomes. | Probability of rolling a 6 on a fair die. |
+| Compound Events | Probability of two or more events happening simultaneously, independent or dependent.          | Probability of drawing two red cards from a deck. |
+
+-----
+
+# Pre-Algebra Problem Solving
+
+## Strategies for Problem Solving
+
+| Step                    | Description                                                                                           |
+|-------------------------|-------------------------------------------------------------------------------------------------------|
+| Understanding the Problem | Identify what is being asked, determine relevant information, and recognize unknowns.                 |
+| Devising a Plan         | Come up with a method or strategy to solve the problem, such as drawing a diagram or creating a table. |
+| Carrying Out the Plan   | Apply the chosen strategy and execute the necessary steps to arrive at a solution.                     |
+| Reviewing/Extending the Solution | Check the results for accuracy and consider if the solution can be applied to other problems.         |
+
+## Strategies for Problem Solving: A Concrete Example
+
+### Example Problem
+Shamsa is planning a birthday party. She has a budget of $150 and wants to buy party favors that cost $5 each. How many party favors can she buy?
+
+### Understanding the Problem
+Shamsa needs to calculate the maximum number of party favors she can buy without exceeding her budget.
+
+### Devising a Plan
+She will divide the total budget by the cost of one party favor to find out the maximum number she can purchase.
+
+### Carrying Out the Plan
+Shamsa carries out the calculation: $150 divided by $5 per party favor equals 30 party favors.
+
+### Reviewing/Extending the Solution
+She reviews her calculation to ensure she hasn’t exceeded the budget and considers if there are any discounts for buying in bulk that could allow her to purchase more favors or save money.
+
+## Example Questions for Pre-Algebra
+
+Here are a few example questions to practice your concepts of pre-algebra:
+
+1. What is the value of \( 3x + 5 \) when \( x = 4 \)?
+2. Solve the equation \( 2(x + 3) = 14 \).
+3. Calculate the area of a rectangle with length 8 units and width 5 units.
 
 
