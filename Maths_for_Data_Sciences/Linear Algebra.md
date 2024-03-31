@@ -110,4 +110,22 @@ Unit vectors are fundamental in data science, providing a standardized way to re
 
 ---
 
+# Scalars and Scaling Vectors
+
+## Scalars:
+
+Scalars are single numerical values representing magnitude without direction, used in mathematical operations and various fields like physics, engineering, and computer science.
+
+## Scaling a Vector:
+
+Scaling a vector involves multiplying each component by a scalar, changing its magnitude while preserving direction. Commonly used for normalization, feature scaling, resizing images, and geometric transformations.
+
+---
+
+# Vector Addition:
+
+Vector addition is the process of combining two or more vectors to produce a single resultant vector. It involves adding the corresponding components of the vectors together. The resultant vector represents the combined effect of the original vectors in terms of magnitude and direction. Vector addition is commutative and associative and is used in various fields such as physics, engineering, and computer graphics.
+
+---
+
 
