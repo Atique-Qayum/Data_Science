@@ -172,3 +172,28 @@ In linear algebra, x-intercept and y-intercept refer to the points where a line 
 - **Y-intercept:** The y-intercept of a line is the point where the line intersects the y-axis. It is the value of the y-coordinate when the x-coordinate is zero. Geometrically, it represents the point where the line crosses the y-axis.
 
 These concepts are important in linear algebra because they provide valuable information about the behavior and characteristics of linear equations and functions. In graphical representations, x-intercepts and y-intercepts help determine the position and orientation of lines in the coordinate plane, aiding in the analysis and interpretation of linear relationships.
+
+---
+# Dot Product and Cross Product of Vectors
+
+### Dot Product:
+
+- **Definition:** The dot product of two vectors is a way of multiplying them together to get a single number.
+- **Calculation:** To find the dot product, you multiply the corresponding components of the vectors and then add up the results.
+- **Formula:** For two vectors \( \mathbf{a} = (a_1, a_2, a_3) \) and \( \mathbf{b} = (b_1, b_2, b_3) \), their dot product is given by:
+  \[ \mathbf{a} \cdot \mathbf{b} = a_1b_1 + a_2b_2 + a_3b_3 \]
+- **Usage:** It's like finding how much two vectors are pointing in the same direction.
+
+### Cross Product:
+
+- **Definition:** The cross product of two vectors gives another vector that is perpendicular (at right angles) to both of the original vectors.
+- **Calculation:** To find the cross product, you use a special formula involving the components of the vectors.
+- **Formula:** For two vectors \( \mathbf{a} = (a_1, a_2, a_3) \) and \( \mathbf{b} = (b_1, b_2, b_3) \), their cross product is given by:
+  \[ \mathbf{a} \times \mathbf{b} = (a_2b_3 - a_3b_2, a_3b_1 - a_1b_3, a_1b_2 - a_2b_1) \]
+- **Usage:** It's like finding a vector that points perpendicular to a flat surface defined by the original vectors.
+
+These operations are fundamental in many areas of mathematics and have practical applications in physics, engineering, and computer graphics.
+
+
+-----
+
