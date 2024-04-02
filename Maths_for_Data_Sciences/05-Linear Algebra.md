@@ -128,4 +128,47 @@ Vector addition is the process of combining two or more vectors to produce a sin
 
 ---
 
+# Vector Span and Linear Dependence
 
+## Vector Span
+
+Vector span refers to the set of all possible linear combinations of vectors in a vector space. It represents the space that can be reached by scaling and adding the vectors in consideration. If a vector space is spanned by a set of vectors, every vector in that space can be expressed as a linear combination of those vectors.
+
+## Linear Dependence
+
+Linear dependence occurs when a set of vectors contains redundancy, meaning at least one vector in the set can be represented as a linear combination of the others. In other words, if there exist scalars (not all zero) such that when multiplied with the vectors and summed, the result is the zero vector. Linear dependence implies redundancy within the set of vectors, as some vectors can be expressed as combinations of others.
+
+----
+
+# Vector Space
+
+A vector space is a mathematical structure that consists of a set of objects called vectors, along with rules for adding these vectors together and multiplying them by scalars (numbers). In simpler terms, it's a space where you can add any two vectors together and multiply any vector by any number (scalar), and the result will still be within that space.
+
+## Key Characteristics of a Vector Space:
+
+- **Closure under Addition:** Adding two vectors results in another vector within the space.
+- **Closure under Scalar Multiplication:** Multiplying a vector by a scalar results in another vector within the space.
+- **Additive Identity:** There exists a vector called the zero vector which, when added to any vector, gives the same vector.
+- **Additive Inverse:** Every vector has an additive inverse such that adding it to the original vector yields the zero vector.
+- **Associativity and Commutativity:** Addition of vectors is both associative and commutative.
+- **Distributive Properties:** Scalar multiplication distributes over vector addition and scalar addition distributes over vector multiplication.
+
+## Examples of Vector Spaces:
+
+- The set of all n-dimensional real vectors (\( \mathbb{R}^n \)).
+- The set of all n-dimensional complex vectors (\( \mathbb{C}^n \)).
+- Function spaces, where vectors are functions and operations are defined pointwise.
+
+Vector spaces are fundamental in various areas of mathematics and have applications in physics, engineering, computer science, and other fields. They help us model and solve problems involving quantities that can be added and scaled.
+
+---
+
+# X and Y Intercepts in Linear Algebra
+
+In linear algebra, x-intercept and y-intercept refer to the points where a line intersects the x-axis and y-axis, respectively.
+
+- **X-intercept:** The x-intercept of a line is the point where the line intersects the x-axis. It is the value of the x-coordinate when the y-coordinate is zero. Geometrically, it represents the point where the line crosses the x-axis.
+
+- **Y-intercept:** The y-intercept of a line is the point where the line intersects the y-axis. It is the value of the y-coordinate when the x-coordinate is zero. Geometrically, it represents the point where the line crosses the y-axis.
+
+These concepts are important in linear algebra because they provide valuable information about the behavior and characteristics of linear equations and functions. In graphical representations, x-intercepts and y-intercepts help determine the position and orientation of lines in the coordinate plane, aiding in the analysis and interpretation of linear relationships.
